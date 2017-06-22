@@ -1,1 +1,1 @@
-A simple web app that consumes Rest web service from themoviedb and displays the latest and popular movies. A Search funcionaility is also added into the app.
+A simple Angular 2 web app that consumes Rest web service from themoviedb and displays the latest and popular movies. A Search funcionaility is also added into the app.
